@@ -5,7 +5,7 @@ sidebar_label: wokwi-resistor
 
 A resistor.
 
-<wokwi-resistor value="470"></wokwi-resistor>
+<wokwi-resistor value="330"></wokwi-resistor>
 
 :::caution
 Wokwi only has a very basic analog circuit simulation. You won't be able to use resistors together with
